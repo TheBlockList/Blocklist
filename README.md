@@ -17,6 +17,7 @@ Besides, you're also saving your battery!
 
 Need something to block?
 Try this:
+
 AdBlock for Browsers: https://github.com/gorhill/uBlock/
 
 Block-Tool for your complete network: https://pi-hole.net/
