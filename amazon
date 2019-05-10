@@ -20,6 +20,7 @@
 127.0.0.1 tap-client-stats.s3-eu-west-1.amazonaws.com
 127.0.0.1 todo-ta-g7g.amazon.com
 127.0.0.1 eu.api.amazonvideo.com
+127.0.0.1 mads.amazon-adsystem.com
 ::1 ags-ext.amazon.com
 ::1 arcus-uswest.amazon.com
 ::1 cdws.eu-west-1.amazonaws.com
@@ -40,3 +41,4 @@
 ::1 tap-client-stats.s3-eu-west-1.amazonaws.com
 ::1 todo-ta-g7g.amazon.com
 ::1 eu.api.amazonvideo.com
+::1 mads.amazon-adsystem.com
