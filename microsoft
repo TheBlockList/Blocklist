@@ -1,0 +1,966 @@
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.rad.msn.com
+0.0.0.0 ac3.msn.com
+0.0.0.0 activity.windows.com
+0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
+0.0.0.0 adl.windows.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
+0.0.0.0 aidps.atdmt.com
+0.0.0.0 aka-cdn-ns.adtech.de
+0.0.0.0 alpha.telemetry.microsoft.com
+0.0.0.0 apac1.notify.windows.com.akadns.net
+0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
+0.0.0.0 b.ads1.msn.com
+0.0.0.0 b.ads2.msads.net
+0.0.0.0 b.rad.msn.com
+0.0.0.0 bingads.microsoft.com
+0.0.0.0 bl3301-a.1drv.com
+0.0.0.0 bl3301-c.1drv.com
+0.0.0.0 bl3301-g.1drv.com
+0.0.0.0 bn2b-cor001.api.p001.1drv.com
+0.0.0.0 bn2b-cor002.api.p001.1drv.com
+0.0.0.0 bn2b-cor003.api.p001.1drv.com
+0.0.0.0 bn2b-cor004.api.p001.1drv.com
+0.0.0.0 bn2wns1.wns.windows.com
+0.0.0.0 bn3p-cor001.api.p001.1drv.com
+0.0.0.0 bn3sch020010558.wns.windows.com
+0.0.0.0 bn3sch020010560.wns.windows.com
+0.0.0.0 bn3sch020010618.wns.windows.com
+0.0.0.0 bn3sch020010629.wns.windows.com
+0.0.0.0 bn3sch020010631.wns.windows.com
+0.0.0.0 bn3sch020010635.wns.windows.com
+0.0.0.0 bn3sch020010636.wns.windows.com
+0.0.0.0 bn3sch020010650.wns.windows.com
+0.0.0.0 bn3sch020011727.wns.windows.com
+0.0.0.0 bn3sch020012850.wns.windows.com
+0.0.0.0 bn3sch020020322.wns.windows.com
+0.0.0.0 bn3sch020020749.wns.windows.com
+0.0.0.0 bn3sch020022328.wns.windows.com
+0.0.0.0 bn3sch020022335.wns.windows.com
+0.0.0.0 bn3sch020022361.wns.windows.com
+0.0.0.0 bn4sch101120814.wns.windows.com
+0.0.0.0 bn4sch101120818.wns.windows.com
+0.0.0.0 bn4sch101120911.wns.windows.com
+0.0.0.0 bn4sch101120913.wns.windows.com
+0.0.0.0 bn4sch101121019.wns.windows.com
+0.0.0.0 bn4sch101121109.wns.windows.com
+0.0.0.0 bn4sch101121118.wns.windows.com
+0.0.0.0 bn4sch101121223.wns.windows.com
+0.0.0.0 bn4sch101121407.wns.windows.com
+0.0.0.0 bn4sch101121618.wns.windows.com
+0.0.0.0 bn4sch101121704.wns.windows.com
+0.0.0.0 bn4sch101121709.wns.windows.com
+0.0.0.0 bn4sch101121714.wns.windows.com
+0.0.0.0 bn4sch101121908.wns.windows.com
+0.0.0.0 bn4sch101122117.wns.windows.com
+0.0.0.0 bn4sch101122310.wns.windows.com
+0.0.0.0 bn4sch101122312.wns.windows.com
+0.0.0.0 bn4sch101122421.wns.windows.com
+0.0.0.0 bn4sch101123108.wns.windows.com
+0.0.0.0 bn4sch101123110.wns.windows.com
+0.0.0.0 bn4sch101123202.wns.windows.com
+0.0.0.0 bn4sch102110124.wns.windows.com
+0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 by3301-a.1drv.com
+0.0.0.0 by3301-c.1drv.com
+0.0.0.0 by3301-e.1drv.com
+0.0.0.0 c.atdmt.com
+0.0.0.0 c.msn.com
+0.0.0.0 cache.datamart.windows.com
+0.0.0.0 cdn.atdmt.com
+0.0.0.0 cds10.stn.llnw.net
+0.0.0.0 cds1203.lon.llnw.net
+0.0.0.0 cds1204.lon.llnw.net
+0.0.0.0 cds1209.lon.llnw.net
+0.0.0.0 cds1219.lon.llnw.net
+0.0.0.0 cds1228.lon.llnw.net
+0.0.0.0 cds1244.lon.llnw.net
+0.0.0.0 cds1257.lon.llnw.net
+0.0.0.0 cds1265.lon.llnw.net
+0.0.0.0 cds1269.lon.llnw.net
+0.0.0.0 cds1273.lon.llnw.net
+0.0.0.0 cds1285.lon.llnw.net
+0.0.0.0 cds1287.lon.llnw.net
+0.0.0.0 cds1289.lon.llnw.net
+0.0.0.0 cds1293.lon.llnw.net
+0.0.0.0 cds1307.lon.llnw.net
+0.0.0.0 cds1310.lon.llnw.net
+0.0.0.0 cds1325.lon.llnw.net
+0.0.0.0 cds1327.lon.llnw.net
+0.0.0.0 cds177.dus.llnw.net
+0.0.0.0 cds20005.stn.llnw.net
+0.0.0.0 cds20404.lcy.llnw.net
+0.0.0.0 cds20411.lcy.llnw.net
+0.0.0.0 cds20415.lcy.llnw.net
+0.0.0.0 cds20416.lcy.llnw.net
+0.0.0.0 cds20417.lcy.llnw.net
+0.0.0.0 cds20424.lcy.llnw.net
+0.0.0.0 cds20425.lcy.llnw.net
+0.0.0.0 cds20431.lcy.llnw.net
+0.0.0.0 cds20435.lcy.llnw.net
+0.0.0.0 cds20440.lcy.llnw.net
+0.0.0.0 cds20443.lcy.llnw.net
+0.0.0.0 cds20445.lcy.llnw.net
+0.0.0.0 cds20450.lcy.llnw.net
+0.0.0.0 cds20452.lcy.llnw.net
+0.0.0.0 cds20457.lcy.llnw.net
+0.0.0.0 cds20461.lcy.llnw.net
+0.0.0.0 cds20469.lcy.llnw.net
+0.0.0.0 cds20475.lcy.llnw.net
+0.0.0.0 cds20482.lcy.llnw.net
+0.0.0.0 cds20485.lcy.llnw.net
+0.0.0.0 cds20495.lcy.llnw.net
+0.0.0.0 cds21205.lon.llnw.net
+0.0.0.0 cds21207.lon.llnw.net
+0.0.0.0 cds21225.lon.llnw.net
+0.0.0.0 cds21229.lon.llnw.net
+0.0.0.0 cds21233.lon.llnw.net
+0.0.0.0 cds21238.lon.llnw.net
+0.0.0.0 cds21244.lon.llnw.net
+0.0.0.0 cds21249.lon.llnw.net
+0.0.0.0 cds21256.lon.llnw.net
+0.0.0.0 cds21257.lon.llnw.net
+0.0.0.0 cds21258.lon.llnw.net
+0.0.0.0 cds21261.lon.llnw.net
+0.0.0.0 cds21267.lon.llnw.net
+0.0.0.0 cds21278.lon.llnw.net
+0.0.0.0 cds21281.lon.llnw.net
+0.0.0.0 cds21293.lon.llnw.net
+0.0.0.0 cds21309.lon.llnw.net
+0.0.0.0 cds21313.lon.llnw.net
+0.0.0.0 cds21321.lon.llnw.net
+0.0.0.0 cds299.lcy.llnw.net
+0.0.0.0 cds308.lcy.llnw.net
+0.0.0.0 cds30027.stn.llnw.net
+0.0.0.0 cds310.lcy.llnw.net
+0.0.0.0 cds38.ory.llnw.net
+0.0.0.0 cds54.ory.llnw.net
+0.0.0.0 cds405.lcy.llnw.net
+0.0.0.0 cds406.lcy.llnw.net
+0.0.0.0 cds407.fra.llnw.net
+0.0.0.0 cds416.lcy.llnw.net
+0.0.0.0 cds421.lcy.llnw.net
+0.0.0.0 cds422.lcy.llnw.net
+0.0.0.0 cds425.lcy.llnw.net
+0.0.0.0 cds426.lcy.llnw.net
+0.0.0.0 cds447.lcy.llnw.net
+0.0.0.0 cds458.lcy.llnw.net
+0.0.0.0 cds459.lcy.llnw.net
+0.0.0.0 cds461.lcy.llnw.net
+0.0.0.0 cds468.lcy.llnw.net
+0.0.0.0 cds469.lcy.llnw.net
+0.0.0.0 cds471.lcy.llnw.net
+0.0.0.0 cds483.lcy.llnw.net
+0.0.0.0 cds484.lcy.llnw.net
+0.0.0.0 cds489.lcy.llnw.net
+0.0.0.0 cds493.lcy.llnw.net
+0.0.0.0 cds494.lcy.llnw.net
+0.0.0.0 cds812.lon.llnw.net
+0.0.0.0 cds815.lon.llnw.net
+0.0.0.0 cds818.lon.llnw.net
+0.0.0.0 cds832.lon.llnw.net
+0.0.0.0 cds836.lon.llnw.net
+0.0.0.0 cds840.lon.llnw.net
+0.0.0.0 cds843.lon.llnw.net
+0.0.0.0 cds857.lon.llnw.net
+0.0.0.0 cds868.lon.llnw.net
+0.0.0.0 cds869.lon.llnw.net
+0.0.0.0 ch1-cor001.api.p001.1drv.com
+0.0.0.0 ch1-cor002.api.p001.1drv.com
+0.0.0.0 ch3301-c.1drv.com
+0.0.0.0 ch3301-e.1drv.com
+0.0.0.0 ch3301-g.1drv.com
+0.0.0.0 ch3302-c.1drv.com
+0.0.0.0 ch3302-e.1drv.com
+0.0.0.0 compatexchange1.trafficmanager.net
+0.0.0.0 continuum.dds.microsoft.com
+0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
+0.0.0.0 db5.settings.data.microsoft.com.akadns.net
+0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
+0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 dev.virtualearth.net
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 ecn.dev.virtualearth.net
+0.0.0.0 eu.vortex.data.microsoft.com
+0.0.0.0 eu.vortex-win.data.microsoft.com
+0.0.0.0 eu-v10.events.data.microsoft.com
+0.0.0.0 eu-v20.events.data.microsoft.com
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 flex.msn.com
+0.0.0.0 g.msn.com
+0.0.0.0 geo.settings.data.microsoft.com.akadns.net
+0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
+0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
+0.0.0.0 h1.msn.com
+0.0.0.0 h2.msn.com
+0.0.0.0 hk2.wns.windows.com
+0.0.0.0 hk2sch130020721.wns.windows.com
+0.0.0.0 hk2sch130020723.wns.windows.com
+0.0.0.0 hk2sch130020726.wns.windows.com
+0.0.0.0 hk2sch130020729.wns.windows.com
+0.0.0.0 hk2sch130020732.wns.windows.com
+0.0.0.0 hk2sch130020824.wns.windows.com
+0.0.0.0 hk2sch130020843.wns.windows.com
+0.0.0.0 hk2sch130020851.wns.windows.com
+0.0.0.0 hk2sch130020854.wns.windows.com
+0.0.0.0 hk2sch130020855.wns.windows.com
+0.0.0.0 hk2sch130020924.wns.windows.com
+0.0.0.0 hk2sch130020936.wns.windows.com
+0.0.0.0 hk2sch130020940.wns.windows.com
+0.0.0.0 hk2sch130020956.wns.windows.com
+0.0.0.0 hk2sch130020958.wns.windows.com
+0.0.0.0 hk2sch130020961.wns.windows.com
+0.0.0.0 hk2sch130021017.wns.windows.com
+0.0.0.0 hk2sch130021029.wns.windows.com
+0.0.0.0 hk2sch130021035.wns.windows.com
+0.0.0.0 hk2sch130021137.wns.windows.com
+0.0.0.0 hk2sch130021142.wns.windows.com
+0.0.0.0 hk2sch130021153.wns.windows.com
+0.0.0.0 hk2sch130021217.wns.windows.com
+0.0.0.0 hk2sch130021246.wns.windows.com
+0.0.0.0 hk2sch130021249.wns.windows.com
+0.0.0.0 hk2sch130021260.wns.windows.com
+0.0.0.0 hk2sch130021264.wns.windows.com
+0.0.0.0 hk2sch130021322.wns.windows.com
+0.0.0.0 hk2sch130021323.wns.windows.com
+0.0.0.0 hk2sch130021329.wns.windows.com
+0.0.0.0 hk2sch130021334.wns.windows.com
+0.0.0.0 hk2sch130021360.wns.windows.com
+0.0.0.0 hk2sch130021432.wns.windows.com
+0.0.0.0 hk2sch130021433.wns.windows.com
+0.0.0.0 hk2sch130021435.wns.windows.com
+0.0.0.0 hk2sch130021437.wns.windows.com
+0.0.0.0 hk2sch130021440.wns.windows.com
+0.0.0.0 hk2sch130021450.wns.windows.com
+0.0.0.0 hk2sch130021518.wns.windows.com
+0.0.0.0 hk2sch130021523.wns.windows.com
+0.0.0.0 hk2sch130021526.wns.windows.com
+0.0.0.0 hk2sch130021527.wns.windows.com
+0.0.0.0 hk2sch130021544.wns.windows.com
+0.0.0.0 hk2sch130021554.wns.windows.com
+0.0.0.0 hk2sch130021618.wns.windows.com
+0.0.0.0 hk2sch130021634.wns.windows.com
+0.0.0.0 hk2sch130021638.wns.windows.com
+0.0.0.0 hk2sch130021646.wns.windows.com
+0.0.0.0 hk2sch130021652.wns.windows.com
+0.0.0.0 hk2sch130021654.wns.windows.com
+0.0.0.0 hk2sch130021657.wns.windows.com
+0.0.0.0 hk2sch130021723.wns.windows.com
+0.0.0.0 hk2sch130021726.wns.windows.com
+0.0.0.0 hk2sch130021727.wns.windows.com
+0.0.0.0 hk2sch130021730.wns.windows.com
+0.0.0.0 hk2sch130021731.wns.windows.com
+0.0.0.0 hk2sch130021754.wns.windows.com
+0.0.0.0 hk2sch130021829.wns.windows.com
+0.0.0.0 hk2sch130021830.wns.windows.com
+0.0.0.0 hk2sch130021833.wns.windows.com
+0.0.0.0 hk2sch130021840.wns.windows.com
+0.0.0.0 hk2sch130021842.wns.windows.com
+0.0.0.0 hk2sch130021851.wns.windows.com
+0.0.0.0 hk2sch130021852.wns.windows.com
+0.0.0.0 hk2sch130021927.wns.windows.com
+0.0.0.0 hk2sch130021928.wns.windows.com
+0.0.0.0 hk2sch130021929.wns.windows.com
+0.0.0.0 hk2sch130021958.wns.windows.com
+0.0.0.0 hk2sch130022035.wns.windows.com
+0.0.0.0 hk2sch130022041.wns.windows.com
+0.0.0.0 hk2sch130022049.wns.windows.com
+0.0.0.0 hk2sch130022135.wns.windows.com
+0.0.0.0 hk2wns1.wns.windows.com
+0.0.0.0 hk2wns1b.wns.windows.com
+0.0.0.0 i-bl6p-cor001.api.p001.1drv.com
+0.0.0.0 i-bl6p-cor002.api.p001.1drv.com
+0.0.0.0 i-bn3p-cor001.api.p001.1drv.com
+0.0.0.0 i-by3p-cor001.api.p001.1drv.com
+0.0.0.0 i-by3p-cor002.api.p001.1drv.com
+0.0.0.0 i-ch1-cor001.api.p001.1drv.com
+0.0.0.0 i-ch1-cor002.api.p001.1drv.com
+0.0.0.0 i-sn2-cor001.api.p001.1drv.com
+0.0.0.0 i-sn2-cor002.api.p001.1drv.com
+0.0.0.0 i-sn3p-cor001.api.p001.1drv.com
+0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 live.rads.msn.com
+0.0.0.0 m.adnxs.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 modern.watson.data.microsoft.com.akadns.net
+0.0.0.0 msedge.net
+0.0.0.0 msntest.serving-sys.com
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 onecollector.cloudapp.aria.akadns.net
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 preview.msn.com
+0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 schemas.microsoft.akadns.net
+0.0.0.0 secure.adnxs.com
+0.0.0.0 secure.flashtalking.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 settings-win-ppe.data.microsoft.com
+0.0.0.0 settings.data.glbdns2.microsoft.com
+0.0.0.0 sg2p.wns.windows.com
+0.0.0.0 sn3301-c.1drv.com
+0.0.0.0 sn3301-e.1drv.com
+0.0.0.0 sn3301-g.1drv.com
+0.0.0.0 spynet2.microsoft.com
+0.0.0.0 spynetalt.microsoft.com
+0.0.0.0 spyneteurope.microsoft.akadns.net
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 ssw.live.com
+0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
+0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
+0.0.0.0 tele.trafficmanager.net
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.remoteapp.windowsazure.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 teredo.ipv6.microsoft.com
+0.0.0.0 test.activity.windows.com
+0.0.0.0 umwatsonc.events.data.microsoft.com
+0.0.0.0 us-v10.events.data.microsoft.com
+0.0.0.0 us-v20.events.data.microsoft.com
+0.0.0.0 us.vortex-win.data.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10c.events.data.microsoft.com
+0.0.0.0 v20.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
+0.0.0.0 v20.vortex-win.data.microsoft.com
+0.0.0.0 view.atdmt.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex-win-sandbox.data.microsoft.com
+0.0.0.0 vortex.data.glbdns2.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 watson.live.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 win10.ipv6.microsoft.com
+0.0.0.0 win1710.ipv6.microsoft.com
+0.0.0.0 win8.ipv6.microsoft.com
+0.0.0.0 www.msedge.net
+### WindowsSpyBlocker - Hosts spy rules
+### License: MIT
+### Updated: 2019-03-02T02:05:00Z01:00
+### More info: https://github.com/crazy-max/WindowsSpyBlocker
+
+::1 a.ads1.msn.com
+::1 a.ads2.msads.net
+::1 a.ads2.msn.com
+::1 a.rad.msn.com
+::1 ac3.msn.com
+::1 activity.windows.com
+::1 adnexus.net
+::1 adnxs.com
+::1 adl.windows.com
+::1 ads.msn.com
+::1 ads1.msads.net
+::1 ads1.msn.com
+::1 aidps.atdmt.com
+::1 aka-cdn-ns.adtech.de
+::1 alpha.telemetry.microsoft.com
+::1 apac1.notify.windows.com.akadns.net
+::1 asimov-win.settings.data.microsoft.com.akadns.net
+::1 b.ads1.msn.com
+::1 b.ads2.msads.net
+::1 b.rad.msn.com
+::1 bingads.microsoft.com
+::1 bl3301-a.1drv.com
+::1 bl3301-c.1drv.com
+::1 bl3301-g.1drv.com
+::1 bn2b-cor001.api.p001.1drv.com
+::1 bn2b-cor002.api.p001.1drv.com
+::1 bn2b-cor003.api.p001.1drv.com
+::1 bn2b-cor004.api.p001.1drv.com
+::1 bn2wns1.wns.windows.com
+::1 bn3p-cor001.api.p001.1drv.com
+::1 bn3sch020010558.wns.windows.com
+::1 bn3sch020010560.wns.windows.com
+::1 bn3sch020010618.wns.windows.com
+::1 bn3sch020010629.wns.windows.com
+::1 bn3sch020010631.wns.windows.com
+::1 bn3sch020010635.wns.windows.com
+::1 bn3sch020010636.wns.windows.com
+::1 bn3sch020010650.wns.windows.com
+::1 bn3sch020011727.wns.windows.com
+::1 bn3sch020012850.wns.windows.com
+::1 bn3sch020020322.wns.windows.com
+::1 bn3sch020020749.wns.windows.com
+::1 bn3sch020022328.wns.windows.com
+::1 bn3sch020022335.wns.windows.com
+::1 bn3sch020022361.wns.windows.com
+::1 bn4sch101120814.wns.windows.com
+::1 bn4sch101120818.wns.windows.com
+::1 bn4sch101120911.wns.windows.com
+::1 bn4sch101120913.wns.windows.com
+::1 bn4sch101121019.wns.windows.com
+::1 bn4sch101121109.wns.windows.com
+::1 bn4sch101121118.wns.windows.com
+::1 bn4sch101121223.wns.windows.com
+::1 bn4sch101121407.wns.windows.com
+::1 bn4sch101121618.wns.windows.com
+::1 bn4sch101121704.wns.windows.com
+::1 bn4sch101121709.wns.windows.com
+::1 bn4sch101121714.wns.windows.com
+::1 bn4sch101121908.wns.windows.com
+::1 bn4sch101122117.wns.windows.com
+::1 bn4sch101122310.wns.windows.com
+::1 bn4sch101122312.wns.windows.com
+::1 bn4sch101122421.wns.windows.com
+::1 bn4sch101123108.wns.windows.com
+::1 bn4sch101123110.wns.windows.com
+::1 bn4sch101123202.wns.windows.com
+::1 bn4sch102110124.wns.windows.com
+::1 browser.events.data.microsoft.com
+::1 bs.serving-sys.com
+::1 by3301-a.1drv.com
+::1 by3301-c.1drv.com
+::1 by3301-e.1drv.com
+::1 c.atdmt.com
+::1 c.msn.com
+::1 cache.datamart.windows.com
+::1 cdn.atdmt.com
+::1 cds10.stn.llnw.net
+::1 cds1203.lon.llnw.net
+::1 cds1204.lon.llnw.net
+::1 cds1209.lon.llnw.net
+::1 cds1219.lon.llnw.net
+::1 cds1228.lon.llnw.net
+::1 cds1244.lon.llnw.net
+::1 cds1257.lon.llnw.net
+::1 cds1265.lon.llnw.net
+::1 cds1269.lon.llnw.net
+::1 cds1273.lon.llnw.net
+::1 cds1285.lon.llnw.net
+::1 cds1287.lon.llnw.net
+::1 cds1289.lon.llnw.net
+::1 cds1293.lon.llnw.net
+::1 cds1307.lon.llnw.net
+::1 cds1310.lon.llnw.net
+::1 cds1325.lon.llnw.net
+::1 cds1327.lon.llnw.net
+::1 cds177.dus.llnw.net
+::1 cds20005.stn.llnw.net
+::1 cds20404.lcy.llnw.net
+::1 cds20411.lcy.llnw.net
+::1 cds20415.lcy.llnw.net
+::1 cds20416.lcy.llnw.net
+::1 cds20417.lcy.llnw.net
+::1 cds20424.lcy.llnw.net
+::1 cds20425.lcy.llnw.net
+::1 cds20431.lcy.llnw.net
+::1 cds20435.lcy.llnw.net
+::1 cds20440.lcy.llnw.net
+::1 cds20443.lcy.llnw.net
+::1 cds20445.lcy.llnw.net
+::1 cds20450.lcy.llnw.net
+::1 cds20452.lcy.llnw.net
+::1 cds20457.lcy.llnw.net
+::1 cds20461.lcy.llnw.net
+::1 cds20469.lcy.llnw.net
+::1 cds20475.lcy.llnw.net
+::1 cds20482.lcy.llnw.net
+::1 cds20485.lcy.llnw.net
+::1 cds20495.lcy.llnw.net
+::1 cds21205.lon.llnw.net
+::1 cds21207.lon.llnw.net
+::1 cds21225.lon.llnw.net
+::1 cds21229.lon.llnw.net
+::1 cds21233.lon.llnw.net
+::1 cds21238.lon.llnw.net
+::1 cds21244.lon.llnw.net
+::1 cds21249.lon.llnw.net
+::1 cds21256.lon.llnw.net
+::1 cds21257.lon.llnw.net
+::1 cds21258.lon.llnw.net
+::1 cds21261.lon.llnw.net
+::1 cds21267.lon.llnw.net
+::1 cds21278.lon.llnw.net
+::1 cds21281.lon.llnw.net
+::1 cds21293.lon.llnw.net
+::1 cds21309.lon.llnw.net
+::1 cds21313.lon.llnw.net
+::1 cds21321.lon.llnw.net
+::1 cds299.lcy.llnw.net
+::1 cds308.lcy.llnw.net
+::1 cds30027.stn.llnw.net
+::1 cds310.lcy.llnw.net
+::1 cds38.ory.llnw.net
+::1 cds54.ory.llnw.net
+::1 cds405.lcy.llnw.net
+::1 cds406.lcy.llnw.net
+::1 cds407.fra.llnw.net
+::1 cds416.lcy.llnw.net
+::1 cds421.lcy.llnw.net
+::1 cds422.lcy.llnw.net
+::1 cds425.lcy.llnw.net
+::1 cds426.lcy.llnw.net
+::1 cds447.lcy.llnw.net
+::1 cds458.lcy.llnw.net
+::1 cds459.lcy.llnw.net
+::1 cds461.lcy.llnw.net
+::1 cds468.lcy.llnw.net
+::1 cds469.lcy.llnw.net
+::1 cds471.lcy.llnw.net
+::1 cds483.lcy.llnw.net
+::1 cds484.lcy.llnw.net
+::1 cds489.lcy.llnw.net
+::1 cds493.lcy.llnw.net
+::1 cds494.lcy.llnw.net
+::1 cds812.lon.llnw.net
+::1 cds815.lon.llnw.net
+::1 cds818.lon.llnw.net
+::1 cds832.lon.llnw.net
+::1 cds836.lon.llnw.net
+::1 cds840.lon.llnw.net
+::1 cds843.lon.llnw.net
+::1 cds857.lon.llnw.net
+::1 cds868.lon.llnw.net
+::1 cds869.lon.llnw.net
+::1 ch1-cor001.api.p001.1drv.com
+::1 ch1-cor002.api.p001.1drv.com
+::1 ch3301-c.1drv.com
+::1 ch3301-e.1drv.com
+::1 ch3301-g.1drv.com
+::1 ch3302-c.1drv.com
+::1 ch3302-e.1drv.com
+::1 compatexchange1.trafficmanager.net
+::1 continuum.dds.microsoft.com
+::1 corp.sts.microsoft.com
+::1 corpext.msitadfs.glbdns2.microsoft.com
+::1 cs1.wpc.v0cdn.net
+::1 cy2.vortex.data.microsoft.com.akadns.net
+::1 db5.settings.data.microsoft.com.akadns.net
+::1 db5.settings-win.data.microsoft.com.akadns.net
+::1 db5.vortex.data.microsoft.com.akadns.net
+::1 db5-eap.settings-win.data.microsoft.com.akadns.net
+::1 dev.virtualearth.net
+::1 df.telemetry.microsoft.com
+::1 diagnostics.support.microsoft.com
+::1 ec.atdmt.com
+::1 ecn.dev.virtualearth.net
+::1 eu.vortex.data.microsoft.com
+::1 eu.vortex-win.data.microsoft.com
+::1 eu-v10.events.data.microsoft.com
+::1 eu-v20.events.data.microsoft.com
+::1 events.data.microsoft.com
+::1 flex.msn.com
+::1 g.msn.com
+::1 geo.settings.data.microsoft.com.akadns.net
+::1 geo.settings-win.data.microsoft.com.akadns.net
+::1 geo.vortex.data.microsoft.com.akadns.net
+::1 h1.msn.com
+::1 h2.msn.com
+::1 hk2.wns.windows.com
+::1 hk2sch130020721.wns.windows.com
+::1 hk2sch130020723.wns.windows.com
+::1 hk2sch130020726.wns.windows.com
+::1 hk2sch130020729.wns.windows.com
+::1 hk2sch130020732.wns.windows.com
+::1 hk2sch130020824.wns.windows.com
+::1 hk2sch130020843.wns.windows.com
+::1 hk2sch130020851.wns.windows.com
+::1 hk2sch130020854.wns.windows.com
+::1 hk2sch130020855.wns.windows.com
+::1 hk2sch130020924.wns.windows.com
+::1 hk2sch130020936.wns.windows.com
+::1 hk2sch130020940.wns.windows.com
+::1 hk2sch130020956.wns.windows.com
+::1 hk2sch130020958.wns.windows.com
+::1 hk2sch130020961.wns.windows.com
+::1 hk2sch130021017.wns.windows.com
+::1 hk2sch130021029.wns.windows.com
+::1 hk2sch130021035.wns.windows.com
+::1 hk2sch130021137.wns.windows.com
+::1 hk2sch130021142.wns.windows.com
+::1 hk2sch130021153.wns.windows.com
+::1 hk2sch130021217.wns.windows.com
+::1 hk2sch130021246.wns.windows.com
+::1 hk2sch130021249.wns.windows.com
+::1 hk2sch130021260.wns.windows.com
+::1 hk2sch130021264.wns.windows.com
+::1 hk2sch130021322.wns.windows.com
+::1 hk2sch130021323.wns.windows.com
+::1 hk2sch130021329.wns.windows.com
+::1 hk2sch130021334.wns.windows.com
+::1 hk2sch130021360.wns.windows.com
+::1 hk2sch130021432.wns.windows.com
+::1 hk2sch130021433.wns.windows.com
+::1 hk2sch130021435.wns.windows.com
+::1 hk2sch130021437.wns.windows.com
+::1 hk2sch130021440.wns.windows.com
+::1 hk2sch130021450.wns.windows.com
+::1 hk2sch130021518.wns.windows.com
+::1 hk2sch130021523.wns.windows.com
+::1 hk2sch130021526.wns.windows.com
+::1 hk2sch130021527.wns.windows.com
+::1 hk2sch130021544.wns.windows.com
+::1 hk2sch130021554.wns.windows.com
+::1 hk2sch130021618.wns.windows.com
+::1 hk2sch130021634.wns.windows.com
+::1 hk2sch130021638.wns.windows.com
+::1 hk2sch130021646.wns.windows.com
+::1 hk2sch130021652.wns.windows.com
+::1 hk2sch130021654.wns.windows.com
+::1 hk2sch130021657.wns.windows.com
+::1 hk2sch130021723.wns.windows.com
+::1 hk2sch130021726.wns.windows.com
+::1 hk2sch130021727.wns.windows.com
+::1 hk2sch130021730.wns.windows.com
+::1 hk2sch130021731.wns.windows.com
+::1 hk2sch130021754.wns.windows.com
+::1 hk2sch130021829.wns.windows.com
+::1 hk2sch130021830.wns.windows.com
+::1 hk2sch130021833.wns.windows.com
+::1 hk2sch130021840.wns.windows.com
+::1 hk2sch130021842.wns.windows.com
+::1 hk2sch130021851.wns.windows.com
+::1 hk2sch130021852.wns.windows.com
+::1 hk2sch130021927.wns.windows.com
+::1 hk2sch130021928.wns.windows.com
+::1 hk2sch130021929.wns.windows.com
+::1 hk2sch130021958.wns.windows.com
+::1 hk2sch130022035.wns.windows.com
+::1 hk2sch130022041.wns.windows.com
+::1 hk2sch130022049.wns.windows.com
+::1 hk2sch130022135.wns.windows.com
+::1 hk2wns1.wns.windows.com
+::1 hk2wns1b.wns.windows.com
+::1 i-bl6p-cor001.api.p001.1drv.com
+::1 i-bl6p-cor002.api.p001.1drv.com
+::1 i-bn3p-cor001.api.p001.1drv.com
+::1 i-by3p-cor001.api.p001.1drv.com
+::1 i-by3p-cor002.api.p001.1drv.com
+::1 i-ch1-cor001.api.p001.1drv.com
+::1 i-ch1-cor002.api.p001.1drv.com
+::1 i-sn2-cor001.api.p001.1drv.com
+::1 i-sn2-cor002.api.p001.1drv.com
+::1 i-sn3p-cor001.api.p001.1drv.com
+::1 lb1.www.ms.akadns.net
+::1 live.rads.msn.com
+::1 m.adnxs.com
+::1 mobile.events.data.microsoft.com
+::1 mobile.pipe.aria.microsoft.com
+::1 modern.watson.data.microsoft.com.akadns.net
+::1 msedge.net
+::1 msntest.serving-sys.com
+::1 nexus.officeapps.live.com
+::1 nexusrules.officeapps.live.com
+::1 oca.telemetry.microsoft.com
+::1 onecollector.cloudapp.aria.akadns.net
+::1 pre.footprintpredict.com
+::1 preview.msn.com
+::1 rad.live.com
+::1 rad.msn.com
+::1 redir.metaservices.microsoft.com
+::1 reports.wes.df.telemetry.microsoft.com
+::1 schemas.microsoft.akadns.net
+::1 secure.adnxs.com
+::1 secure.flashtalking.com
+::1 self.events.data.microsoft.com
+::1 services.wes.df.telemetry.microsoft.com
+::1 settings-sandbox.data.microsoft.com
+::1 settings-win-ppe.data.microsoft.com
+::1 settings.data.glbdns2.microsoft.com
+::1 sg2p.wns.windows.com
+::1 sn3301-c.1drv.com
+::1 sn3301-e.1drv.com
+::1 sn3301-g.1drv.com
+::1 spynet2.microsoft.com
+::1 spynetalt.microsoft.com
+::1 spyneteurope.microsoft.akadns.net
+::1 sqm.df.telemetry.microsoft.com
+::1 sqm.telemetry.microsoft.com
+::1 sqm.telemetry.microsoft.com.nsatc.net
+::1 ssw.live.com
+::1 survey.watson.microsoft.com
+::1 t0.ssl.ak.dynamic.tiles.virtualearth.net
+::1 t0.ssl.ak.tiles.virtualearth.net
+::1 tele.trafficmanager.net
+::1 telecommand.telemetry.microsoft.com
+::1 telemetry.appex.bing.net
+::1 telemetry.microsoft.com
+::1 telemetry.remoteapp.windowsazure.com
+::1 telemetry.urs.microsoft.com
+::1 teredo.ipv6.microsoft.com
+::1 test.activity.windows.com
+::1 umwatsonc.events.data.microsoft.com
+::1 us-v10.events.data.microsoft.com
+::1 us-v20.events.data.microsoft.com
+::1 us.vortex-win.data.microsoft.com
+::1 v10.events.data.microsoft.com
+::1 v10c.events.data.microsoft.com
+::1 v20.events.data.microsoft.com
+::1 v10.vortex-win.data.microsoft.com
+::1 v10-win.vortex.data.microsoft.com.akadns.net
+::1 v20.vortex-win.data.microsoft.com
+::1 view.atdmt.com
+::1 vortex-sandbox.data.microsoft.com
+::1 vortex-win.data.microsoft.com
+::1 vortex-win-sandbox.data.microsoft.com
+::1 vortex.data.glbdns2.microsoft.com
+::1 vortex.data.microsoft.com
+::1 watson.live.com
+::1 watson.microsoft.com
+::1 watson.ppe.telemetry.microsoft.com
+::1 watson.telemetry.microsoft.com
+::1 web.vortex.data.microsoft.com
+::1 wes.df.telemetry.microsoft.com
+::1 win10.ipv6.microsoft.com
+::1 win1710.ipv6.microsoft.com
+::1 win8.ipv6.microsoft.com
+::1 www.msedge.net
+###################################################
+13.68.31.193
+13.66.56.243
+13.68.82.8
+13.76.218.117
+13.76.219.191
+13.76.219.210
+13.78.130.220
+13.78.232.226
+13.78.233.133
+13.92.194.212
+23.97.61.137
+23.97.209.97
+23.99.49.121
+23.99.10.11
+23.99.109.44
+23.99.109.64
+23.99.116.116
+23.99.121.207
+23.102.4.253
+23.102.21.4
+23.102.155.140
+23.103.182.126
+40.68.222.212
+40.69.153.67
+40.70.220.248
+40.70.221.249
+40.76.1.176
+40.76.12.4
+40.76.12.162
+40.77.228.47
+40.77.228.87
+40.77.228.92
+40.77.232.101
+40.79.85.125
+40.83.189.49
+40.113.8.255
+40.113.10.78
+40.113.11.93
+40.113.14.159
+40.113.22.47
+40.113.84.53
+40.114.149.220
+40.115.1.44
+40.115.3.210
+40.117.144.240
+40.117.151.29
+40.121.144.182
+51.140.40.236
+51.141.13.164
+52.109.8.19
+52.109.8.20
+52.109.8.21
+52.109.12.18
+52.109.12.19
+52.109.12.20
+52.109.12.21
+52.109.12.22
+52.109.12.23
+52.109.12.24
+52.109.76.30
+52.109.76.31
+52.109.76.32
+52.109.76.33
+52.109.76.34
+52.109.76.35
+52.109.76.36
+52.109.76.40
+52.109.88.6
+52.109.88.34
+52.109.88.35
+52.109.88.36
+52.109.88.37
+52.109.88.38
+52.109.88.39
+52.109.88.40
+52.109.88.44
+52.109.120.17
+52.109.120.18
+52.109.120.19
+52.109.120.20
+52.109.120.21
+52.109.120.22
+52.109.120.23
+52.109.124.18
+52.109.124.19
+52.109.124.20
+52.109.124.21
+52.109.124.22
+52.109.124.23
+52.109.124.24
+52.114.6.46
+52.114.6.47
+52.114.7.37
+52.114.32.6
+52.114.32.7
+52.114.32.8
+52.114.74.43
+52.114.74.44
+52.114.74.45
+52.114.75.78
+52.114.75.79
+52.114.75.150
+52.114.76.34
+52.114.76.35
+52.114.76.37
+52.114.77.33
+52.114.77.34
+52.114.77.137
+52.114.88.20
+52.114.88.28
+52.114.88.29
+52.114.128.8
+52.114.128.9
+52.114.128.10
+52.114.128.43
+52.114.128.44
+52.114.128.58
+52.114.132.21
+52.114.132.22
+52.114.132.23
+52.114.132.73
+52.114.132.74
+52.114.158.50
+52.114.158.52
+52.114.158.53
+52.114.158.91
+52.114.158.92
+52.114.158.102
+52.138.204.217
+52.138.216.83
+52.158.238.42
+52.164.240.33
+52.164.240.59
+52.164.241.205
+52.169.189.83
+52.170.83.19
+52.174.22.246
+52.178.38.151
+52.178.147.240
+52.178.151.212
+52.178.178.16
+52.178.223.23
+52.183.114.173
+52.229.39.152
+52.230.85.180
+52.236.42.239
+52.236.43.202
+65.52.26.28
+65.52.100.7
+65.52.100.9
+65.52.100.11
+65.52.100.91
+65.52.100.92
+65.52.100.93
+65.52.100.94
+65.52.161.64
+65.52.219.207
+65.55.29.238
+65.55.44.51
+65.55.44.54
+65.55.44.108
+65.55.44.109
+65.55.83.120
+65.55.113.11
+65.55.113.12
+65.55.113.13
+65.55.176.90
+65.55.252.43
+65.55.252.63
+65.55.252.70
+65.55.252.71
+65.55.252.72
+65.55.252.93
+65.55.252.190
+65.55.252.202
+66.119.147.131
+104.41.207.73
+104.43.137.66
+104.43.139.21
+104.43.140.223
+104.43.228.53
+104.43.228.202
+104.43.237.169
+104.45.11.195
+104.45.214.112
+104.46.1.211
+104.46.38.64
+104.210.4.77
+104.210.40.87
+104.210.212.243
+104.214.35.244
+131.253.6.87
+131.253.6.103
+131.253.40.37
+134.170.30.202
+134.170.30.203
+134.170.30.204
+134.170.30.221
+134.170.52.151
+134.170.235.16
+157.56.74.250
+157.56.91.77
+157.56.106.184
+157.56.106.185
+157.56.106.189
+157.56.113.217
+157.56.121.89
+157.56.124.87
+157.56.149.250
+157.56.194.72
+157.56.194.73
+157.56.194.74
+168.61.24.141
+168.61.146.25
+168.61.149.17
+168.61.172.71
+168.62.187.13
+168.63.100.61
+168.63.108.233
+191.236.155.80
+191.237.218.239
+191.239.50.18
+191.239.50.77
+191.239.52.100
+191.239.54.52
+207.46.41.202
+207.46.134.255
+207.68.166.254
