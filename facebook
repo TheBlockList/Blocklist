@@ -1,9 +1,5 @@
 127.0.0.1 mqtt-mini.facebook.com
 :: mqtt-mini.facebook.com
-# This blocklist helps Pi-hole's admin restrict access to Facebook and its domains.
-# Curated from my own log and some more sources online.
-# Last updated: 3rd October 2017
-
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
