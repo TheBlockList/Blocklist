@@ -1,3 +1,6 @@
 # Various domains and addresses for which it is not worthwhile to create extra lists.
 127.0.0.1 xlink.cn
 ::1 xlink.cn
+
+127.0.0.1 api.mixpanel.com
+::1 api.mixpanel.com
