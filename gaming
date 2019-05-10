@@ -1,0 +1,5 @@
+# Blocklist for Telemetrie and other stuff of Game-Clients like Steam, uplay, origin and more.
+
+#ubisoft
+127.0.0.1 data.ubi.com
+::1 data.ubi.com
