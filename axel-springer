@@ -143,6 +143,7 @@
 0.0.0.0 sports.pl
 0.0.0.0 fakt.pl
 0.0.0.0 blic.rs
+0.0.0.0 upday.com
 ::1 antenne.de
 ::1 radiohamburg.de
 ::1 ffh.de
@@ -286,3 +287,4 @@
 ::1 sports.pl
 ::1 fakt.pl
 ::1 blic.rs
+::1 upday.com
