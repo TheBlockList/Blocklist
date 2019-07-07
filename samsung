@@ -85,6 +85,7 @@
 0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 service.game-mode.net
 ::1 device-metrics-us.amazon.com
 ::1 samsungacr.com
 ::1 samsungcloudsolution.com
@@ -172,3 +173,4 @@
 ::1 oempprd.samsungcloudsolution.com
 ::1 time.samsungcloudsolution.com
 ::1 lcprd1.samsungcloudsolution.net
+::1 service.game-mode.net
