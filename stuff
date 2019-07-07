@@ -17,5 +17,9 @@
 127:0.0.1 reports.crashlytics.com
 ::1 reports.crashlytics.com
 
+
 127:0.0.1 analytics.plex.tv
 ::1 analytics.plex.tv
+
+127:0.0.1 tags.tiqcdn.com
+::1 tags.tiqcdn.com
