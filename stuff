@@ -23,3 +23,9 @@
 
 127:0.0.1 tags.tiqcdn.com
 ::1 tags.tiqcdn.com
+
+127:0.0.1 braze.com
+::1 braze.com
+
+127:0.0.1 braze.eu
+::1 braze.eu
