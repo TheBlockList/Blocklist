@@ -29,3 +29,9 @@
 
 127:0.0.1 braze.eu
 ::1 braze.eu
+
+127:0.0.1 ngrok.io
+::1 ngrok.io
+
+127:0.0.1 serveo.net
+::1 serveo.net
