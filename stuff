@@ -47,3 +47,6 @@
 
 127.0.0.1 moatads.com
 ::1 moatads.com
+
+127.0.0.1 api.branch.io
+::1 api.branch.io
