@@ -40,3 +40,6 @@
 
 127:0.0.1 ioam.de
 ::1 ioam.de
+
+127.0.0.1 moatads.com
+::1 moatads.com
