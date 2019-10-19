@@ -88,6 +88,8 @@
 0.0.0.0 service.game-mode.net
 0.0.0.0 mgmt.aibixby.com
 0.0.0.0 aibixby.com
+127.0.0.1 analytics.samsungknox.com
+::1 analytics.samsungknox.com
 ::1 device-metrics-us.amazon.com
 ::1 samsungacr.com
 ::1 samsungcloudsolution.com
