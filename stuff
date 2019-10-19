@@ -16,6 +16,8 @@
 
 127:0.0.1 reports.crashlytics.com
 ::1 reports.crashlytics.com
+127:0.0.1 e.crashlytics.com
+::1 e.crashlytics.com
 
 
 127:0.0.1 analytics.plex.tv
@@ -35,3 +37,6 @@
 
 127:0.0.1 serveo.net
 ::1 serveo.net
+
+127:0.0.1 ioam.de
+::1 ioam.de
