@@ -1,6 +1,22 @@
 # List for blocking Huawei stuff
 
 127.0.0.1 grs.dbankcloud.com
-::1  grs.dbankcloud.com
 127.0.0.1 event.dbankcdn.com
+127.0.0.1 push.hicloud.com
+127.0.0.1 pushtrs1.push.hicloud.com
+127.0.0.1 pushtrs2.push.hicloud.com
+127.0.0.1 pushtrs3.push.hicloud.com
+127.0.0.1 pushtrs4.push.hicloud.com
+127.0.0.1 pushtrs5.push.hicloud.com
+127.0.0.1 pushtrs6.push.hicloud.com
+127.0.0.1 pushtrs7.push.hicloud.com
+::1  grs.dbankcloud.com
 ::1 event.dbankcdn.com
+::1 push.hicloud.com
+::1 pushtrs1.push.hicloud.com
+::1 pushtrs2.push.hicloud.com
+::1 pushtrs3.push.hicloud.com
+::1 pushtrs4.push.hicloud.com
+::1 pushtrs5.push.hicloud.com
+::1 pushtrs6.push.hicloud.com
+::1 pushtrs7.push.hicloud.com
