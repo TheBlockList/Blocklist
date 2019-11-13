@@ -3,8 +3,10 @@
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 digitalassetlinks.googleapis.com
 127.0.0.1 semanticlocation-pa.googleapis.com
+127.0.0.1 people-pa.googleapis.com
 ::1 googleads.g.doubleclick.net
 ::1 googleadservices.com
 ::1 ssl.google-analytics.com
 ::1 digitalassetlinks.googleapis.com
 ::1 semanticlocation-pa.googleapis.com
+::1 people-pa.googleapis.com
