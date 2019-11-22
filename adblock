@@ -2,4 +2,10 @@
 # Will be filled with time.
 
 127.0.0.1 ads.mopub.com
+127.0.0.1 clicktripz.com
+127.0.0.1 ioam.de
+127.0.0.1 mairdumont.com
 ::1 ads.mopub.com
+::1 clicktripz.com
+::1 ioam.de
+::1 mairdumont.com
