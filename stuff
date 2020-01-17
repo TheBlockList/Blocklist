@@ -38,6 +38,11 @@
 127:0.0.1 serveo.net
 ::1 serveo.net
 
+127:0.0.1 marketing.blackvuecloud.com
+::1 marketing.blackvuecloud.com
+127:0.0.1 analytics.orpheusdroid.com
+::1 analytics.orpheusdroid.com
+
 127:0.0.1 ioam.de
 ::1 ioam.de
 127:0.0.1 config.ioam.de
