@@ -1,4 +1,7 @@
 # Various domains and addresses for which it is not worthwhile to create extra lists.
+127.0.0.1 instana.io
+::1 instana.io
+
 127.0.0.1 xlink.cn
 ::1 xlink.cn
 
