@@ -62,6 +62,14 @@
 127.0.0.1 nrdp51-appboot.netflix.com
 ::1 nrdp51-appboot.netflix.com
 
+127.0.0.1 ip-info.ff.avast.com
+::1 ip-info.ff.avast.com
+
+127.0.0.1 yes-sir.wetter.com
+::1 yes-sir.wetter.com
+
+127.0.0.1 events.api.bosecm.com
+::1 events.api.bosecm.com
 
 #######################
 #######################
