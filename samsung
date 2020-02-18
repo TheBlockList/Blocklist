@@ -89,6 +89,7 @@
 0.0.0.0 mgmt.aibixby.com
 0.0.0.0 aibixby.com
 127.0.0.1 analytics.samsungknox.com
+127.0.0.1 bigdata.ssp.samsung.com
 ::1 analytics.samsungknox.com
 ::1 device-metrics-us.amazon.com
 ::1 samsungacr.com
@@ -180,3 +181,4 @@
 ::1 service.game-mode.net
 ::1 mgmt.aibixby.com
 ::1 aibixby.com
+::1 bigdata.ssp.samsung.com
