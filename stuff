@@ -59,6 +59,8 @@
 127.0.0.1 api.branch.io
 ::1 api.branch.io
 
+127.0.0.1 nrdp51-appboot.netflix.com
+::1 nrdp51-appboot.netflix.com
 
 
 #######################
