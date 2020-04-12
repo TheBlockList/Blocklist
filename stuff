@@ -71,6 +71,9 @@
 127.0.0.1 events.api.bosecm.com
 ::1 events.api.bosecm.com
 
+127.0.0.1 pixeu.tsbluebox.com
+::1 pixeu.tsbluebox.com
+
 #######################
 #######################
 #######################
