@@ -2,21 +2,12 @@
 # Read the ReadMe before using!
 # List created 18.10.2018
 
-127.0.0.1 gfwsl.geforce.com 
-127.0.0.1 gfe.geforce.com 
-127.0.0.1 telemetry.nvidia.com 
-127.0.0.1 gfe.nvidia.com 
-127.0.0.1 telemetry.gfe.nvidia.com 
-127.0.0.1 events.gfe.nvidia.com
-127.0.0.1 ssl.google-analytics.com
-127.0.0.1 nvidia.tt.omtrdc.net
-127.0.0.1 services.gfe.nvidia.com
-::1 gfwsl.geforce.com 
-::1 gfe.geforce.com 
-::1 telemetry.nvidia.com 
-::1 gfe.nvidia.com 
-::1 telemetry.gfe.nvidia.com 
-::1 events.gfe.nvidia.com
-::1 ssl.google-analytics.com
-::1 nvidia.tt.omtrdc.net
-::1 services.gfe.nvidia.com
+gfwsl.geforce.com 
+gfe.geforce.com 
+telemetry.nvidia.com 
+gfe.nvidia.com 
+telemetry.gfe.nvidia.com 
+events.gfe.nvidia.com
+ssl.google-analytics.com
+nvidia.tt.omtrdc.net
+services.gfe.nvidia.com
