@@ -1,46 +1,24 @@
 # Block Tracker, Ads and Spyware of the Amazon FireTV
 # Last edit 10.05.2019
-127.0.0.1 ags-ext.amazon.com
-127.0.0.1 arcus-uswest.amazon.com
-127.0.0.1 cdws.eu-west-1.amazonaws.com
-127.0.0.1 cognito-identity.us-east-1.amazonaws.com
-127.0.0.1 cortana-gateway.amazon.com
-127.0.0.1 cz15y20kg2.execute-api.us-east-1.amazonaws.com
-127.0.0.1 dcape-na.amazon.com
-127.0.0.1 device-messaging-na.amazon.com
-127.0.0.1 device-metrics-us.amazon.com
-127.0.0.1 digprjsurvey.amazon.eu
-127.0.0.1 dp-discovery-na-ext.amazon.com
-127.0.0.1 dp-gw-na.amazon.com
-127.0.0.1 dp-rsm-prod.amazon.com
-127.0.0.1 messaging-director-us-east-1.amazon.com
-127.0.0.1 msh.amazon.co.uk
-127.0.0.1 msh.amazon.com
-127.0.0.1 prod.amazoncrl.com
-127.0.0.1 tap-client-stats.s3-eu-west-1.amazonaws.com
-127.0.0.1 todo-ta-g7g.amazon.com
-127.0.0.1 eu.api.amazonvideo.com
-127.0.0.1 mads.amazon-adsystem.com
-127.0.0.1 amazon-adsystem.com
-::1 ags-ext.amazon.com
-::1 arcus-uswest.amazon.com
-::1 cdws.eu-west-1.amazonaws.com
-::1 cognito-identity.us-east-1.amazonaws.com
-::1 cortana-gateway.amazon.com
-::1 cz15y20kg2.execute-api.us-east-1.amazonaws.com
-::1 dcape-na.amazon.com
-::1 device-messaging-na.amazon.com
-::1 device-metrics-us.amazon.com
-::1 digprjsurvey.amazon.eu
-::1 dp-discovery-na-ext.amazon.com
-::1 dp-gw-na.amazon.com
-::1 dp-rsm-prod.amazon.com
-::1 messaging-director-us-east-1.amazon.com
-::1 msh.amazon.co.uk
-::1 msh.amazon.com
-::1 prod.amazoncrl.com
-::1 tap-client-stats.s3-eu-west-1.amazonaws.com
-::1 todo-ta-g7g.amazon.com
-::1 eu.api.amazonvideo.com
-::1 mads.amazon-adsystem.com
-::1 amazon-adsystem.com
+ags-ext.amazon.com
+arcus-uswest.amazon.com
+cdws.eu-west-1.amazonaws.com
+cognito-identity.us-east-1.amazonaws.com
+cortana-gateway.amazon.com
+cz15y20kg2.execute-api.us-east-1.amazonaws.com
+dcape-na.amazon.com
+device-messaging-na.amazon.com
+device-metrics-us.amazon.com
+digprjsurvey.amazon.eu
+dp-discovery-na-ext.amazon.com
+dp-gw-na.amazon.com
+dp-rsm-prod.amazon.com
+messaging-director-us-east-1.amazon.com
+msh.amazon.co.uk
+msh.amazon.com
+prod.amazoncrl.com
+tap-client-stats.s3-eu-west-1.amazonaws.com
+todo-ta-g7g.amazon.com
+eu.api.amazonvideo.com
+mads.amazon-adsystem.com
+amazon-adsystem.com
