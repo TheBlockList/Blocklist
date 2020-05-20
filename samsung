@@ -1,184 +1,92 @@
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 samsungacr.com
-0.0.0.0 samsungcloudsolution.com
-0.0.0.0 samsungcloudsolution.net
-0.0.0.0 pavv.co.kr
-0.0.0.0 samsungotn.net
-0.0.0.0 samsungrm.net
-0.0.0.0 samsungelectronics.com
-0.0.0.0 samsungadhub.com
-0.0.0.0 samsungosp.com
-0.0.0.0 samsungqbe.com
-0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
-0.0.0.0 abtauthprd.samsungcloudsolution.com
-0.0.0.0 acr0.samsungcloudsolution.com
-0.0.0.0 ad.samsungadhub.com
-0.0.0.0 amauthprd.samsungcloudsolution.com
-0.0.0.0 api-hub.samsungyosemite.com
-0.0.0.0 auth.samsungosp.com
-0.0.0.0 az43064.vo.msecnd.net
-0.0.0.0 cdn.samsungcloudsolution.com
-0.0.0.0 cdn.samsungcloudsolution.net
-0.0.0.0 d179kwmlpc4o47.cloudfront.ne
-0.0.0.0 d179kwmlpc4o47.cloudfront.net
-0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
-0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
-0.0.0.0 d2tnx644ijgq6i.cloudfront.net
-0.0.0.0 d3mjsomixevyw7.cloudfront.net
-0.0.0.0 dev-multiscreen.samsung.com
-0.0.0.0 fkp.samsungcloudsolution.com
-0.0.0.0 fkp.samsungcloudsolution.net
-0.0.0.0 game.internetat.tv
-0.0.0.0 gld.samsungosp.com
-0.0.0.0 gpm.samsungqbe.com
-0.0.0.0 i-stream.pl
-0.0.0.0 infolink.pavv.co.kr
-0.0.0.0 lcprd1.samsungcloudsolution.net
-0.0.0.0 log-1.samsungacr.com
-0.0.0.0 log-2.samsungacr.com
-0.0.0.0 log-3.samsungacr.com
-0.0.0.0 log.internetat.tv
-0.0.0.0 multiscreen.samsung.com
-0.0.0.0 notice.samsungcloudsolution.com
-0.0.0.0 noticecdn.samsungcloudsolution.com
-0.0.0.0 noticefile.samsungcloudsolution.com
-0.0.0.0 ns11.whois.co.kr
-0.0.0.0 oempprd.samsungcloudsolution.com
-0.0.0.0 oempprd.samsungcloudsolution.net
-0.0.0.0 openapi.samsung.com
-0.0.0.0 osb.samsungqbe.com
-0.0.0.0 otnprd10.samsungcloudsolution.net
-0.0.0.0 otnprd11.samsungcloudsolution.net
-0.0.0.0 otnprd8.samsungcloudsolution.net
-0.0.0.0 otnprd9.samsungcloudsolution.net
-0.0.0.0 pipeaota.com
-0.0.0.0 premium-videos.telly.com
-0.0.0.0 prov.samsungcloudsolution.com
-0.0.0.0 rd.samsungadhub.com
-0.0.0.0 sas.samsungcloudsolution.com
-0.0.0.0 sca.samsung.com
-0.0.0.0 sso.internetat.tv
-0.0.0.0 syncplusconfig.s3.amazonaws.com
-0.0.0.0 targeted-config-test.samsungacr.com
-0.0.0.0 test.samsungrm.net
-0.0.0.0 time.samsungcloudsolution.com
-0.0.0.0 upu.samsungelectronics.com
-0.0.0.0 us-api.samsungyosemite.com
-0.0.0.0 vd.emp.prd.s3.amazonaws.com
-0.0.0.0 vdterms.samsungcloudsolution.com
-0.0.0.0 www.samsungotn.net
-0.0.0.0 www.samsungrm.net
-0.0.0.0 xpu.samsungelectronics.com
-0.0.0.0 acr0.samsungcloudsolution.com
-0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
-0.0.0.0 d179kwmlpc4o47.cloudfront.net
-0.0.0.0 www.samsungrm.net
-0.0.0.0 www.samsungotn.net
-0.0.0.0 game.internetat.tv
-0.0.0.0 ns11.whois.co.kr
-0.0.0.0 infolink.pavv.co.k
-0.0.0.0 rwww.samsungotn.net
-0.0.0.0 premium-videos.telly.com
-0.0.0.0 targeted-config-test.samsungacr.com
-0.0.0.0 syncplusconfig.s3.amazonaws.com
-0.0.0.0 cdn.samsungcloudsolution.com
-0.0.0.0 oempprd.samsungcloudsolution.com
-0.0.0.0 time.samsungcloudsolution.com
-0.0.0.0 lcprd1.samsungcloudsolution.net
-0.0.0.0 service.game-mode.net
-0.0.0.0 mgmt.aibixby.com
-0.0.0.0 aibixby.com
-127.0.0.1 analytics.samsungknox.com
-127.0.0.1 bigdata.ssp.samsung.com
-::1 analytics.samsungknox.com
-::1 device-metrics-us.amazon.com
-::1 samsungacr.com
-::1 samsungcloudsolution.com
-::1 samsungcloudsolution.net
-::1 pavv.co.kr
-::1 samsungotn.net
-::1 samsungrm.net
-::1 samsungelectronics.com
-::1 samsungadhub.com
-::1 samsungosp.com
-::1 samsungqbe.com
-::1 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
-::1 abtauthprd.samsungcloudsolution.com
-::1 acr0.samsungcloudsolution.com
-::1 ad.samsungadhub.com
-::1 amauthprd.samsungcloudsolution.com
-::1 api-hub.samsungyosemite.com
-::1 auth.samsungosp.com
-::1 az43064.vo.msecnd.net
-::1 cdn.samsungcloudsolution.com
-::1 cdn.samsungcloudsolution.net
-::1 d179kwmlpc4o47.cloudfront.ne
-::1 d179kwmlpc4o47.cloudfront.net
-::1 d1jwpcr0q4pcq0.cloudfront.net
-::1 d1oxlq5h9kq8q5.cloudfront.net
-::1 d2tnx644ijgq6i.cloudfront.net
-::1 d3mjsomixevyw7.cloudfront.net
-::1 dev-multiscreen.samsung.com
-::1 fkp.samsungcloudsolution.com
-::1 fkp.samsungcloudsolution.net
-::1 game.internetat.tv
-::1 gld.samsungosp.com
-::1 gpm.samsungqbe.com
-::1 i-stream.pl
-::1 infolink.pavv.co.kr
-::1 lcprd1.samsungcloudsolution.net
-::1 log-1.samsungacr.com
-::1 log-2.samsungacr.com
-::1 log-3.samsungacr.com
-::1 log.internetat.tv
-::1 multiscreen.samsung.com
-::1 notice.samsungcloudsolution.com
-::1 noticecdn.samsungcloudsolution.com
-::1 noticefile.samsungcloudsolution.com
-::1 ns11.whois.co.kr
-::1 oempprd.samsungcloudsolution.com
-::1 oempprd.samsungcloudsolution.net
-::1 openapi.samsung.com
-::1 osb.samsungqbe.com
-::1 otnprd10.samsungcloudsolution.net
-::1 otnprd11.samsungcloudsolution.net
-::1 otnprd8.samsungcloudsolution.net
-::1 otnprd9.samsungcloudsolution.net
-::1 pipeaota.com
-::1 premium-videos.telly.com
-::1 prov.samsungcloudsolution.com
-::1 rd.samsungadhub.com
-::1 sas.samsungcloudsolution.com
-::1 sca.samsung.com
-::1 sso.internetat.tv
-::1 syncplusconfig.s3.amazonaws.com
-::1 targeted-config-test.samsungacr.com
-::1 test.samsungrm.net
-::1 time.samsungcloudsolution.com
-::1 upu.samsungelectronics.com
-::1 us-api.samsungyosemite.com
-::1 vd.emp.prd.s3.amazonaws.com
-::1 vdterms.samsungcloudsolution.com
-::1 www.samsungotn.net
-::1 www.samsungrm.net
-::1 xpu.samsungelectronics.com
-::1 acr0.samsungcloudsolution.com
-::1 d1oxlq5h9kq8q5.cloudfront.net
-::1 d179kwmlpc4o47.cloudfront.net
-::1 www.samsungrm.net
-::1 www.samsungotn.net
-::1 game.internetat.tv
-::1 ns11.whois.co.kr
-::1 infolink.pavv.co.k
-::1 rwww.samsungotn.net
-::1 premium-videos.telly.com
-::1 targeted-config-test.samsungacr.com
-::1 syncplusconfig.s3.amazonaws.com
-::1 cdn.samsungcloudsolution.com
-::1 oempprd.samsungcloudsolution.com
-::1 time.samsungcloudsolution.com
-::1 lcprd1.samsungcloudsolution.net
-::1 service.game-mode.net
-::1 mgmt.aibixby.com
-::1 aibixby.com
-::1 bigdata.ssp.samsung.com
+device-metrics-us.amazon.com
+samsungacr.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+pavv.co.kr
+samsungotn.net
+samsungrm.net
+samsungelectronics.com
+samsungadhub.com
+samsungosp.com
+samsungqbe.com
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+abtauthprd.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
+ad.samsungadhub.com
+amauthprd.samsungcloudsolution.com
+api-hub.samsungyosemite.com
+auth.samsungosp.com
+az43064.vo.msecnd.net
+cdn.samsungcloudsolution.com
+cdn.samsungcloudsolution.net
+d179kwmlpc4o47.cloudfront.ne
+d179kwmlpc4o47.cloudfront.net
+d1jwpcr0q4pcq0.cloudfront.net
+d1oxlq5h9kq8q5.cloudfront.net
+d2tnx644ijgq6i.cloudfront.net
+d3mjsomixevyw7.cloudfront.net
+dev-multiscreen.samsung.com
+fkp.samsungcloudsolution.com
+fkp.samsungcloudsolution.net
+game.internetat.tv
+gld.samsungosp.com
+gpm.samsungqbe.com
+i-stream.pl
+infolink.pavv.co.kr
+lcprd1.samsungcloudsolution.net
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
+log.internetat.tv
+multiscreen.samsung.com
+notice.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
+noticefile.samsungcloudsolution.com
+ns11.whois.co.kr
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
+openapi.samsung.com
+osb.samsungqbe.com
+otnprd10.samsungcloudsolution.net
+otnprd11.samsungcloudsolution.net
+otnprd8.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net
+pipeaota.com
+premium-videos.telly.com
+prov.samsungcloudsolution.com
+rd.samsungadhub.com
+sas.samsungcloudsolution.com
+sca.samsung.com
+sso.internetat.tv
+syncplusconfig.s3.amazonaws.com
+targeted-config-test.samsungacr.com
+test.samsungrm.net
+time.samsungcloudsolution.com
+upu.samsungelectronics.com
+us-api.samsungyosemite.com
+vd.emp.prd.s3.amazonaws.com
+vdterms.samsungcloudsolution.com
+www.samsungotn.net
+www.samsungrm.net
+xpu.samsungelectronics.com
+acr0.samsungcloudsolution.com
+d1oxlq5h9kq8q5.cloudfront.net
+d179kwmlpc4o47.cloudfront.net
+www.samsungrm.net
+www.samsungotn.net
+game.internetat.tv
+ns11.whois.co.kr
+infolink.pavv.co.k
+rwww.samsungotn.net
+premium-videos.telly.com
+targeted-config-test.samsungacr.com
+syncplusconfig.s3.amazonaws.com
+cdn.samsungcloudsolution.com
+oempprd.samsungcloudsolution.com
+time.samsungcloudsolution.com
+lcprd1.samsungcloudsolution.net
+service.game-mode.net
+mgmt.aibixby.com
+aibixby.com
+analytics.samsungknox.com
+bigdata.ssp.samsung.com
