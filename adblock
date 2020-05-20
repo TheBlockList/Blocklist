@@ -1,27 +1,15 @@
 # The Mega-AdBlock-List
 # Will be filled with time.
 
-127.0.0.1 ads.mopub.com
-127.0.0.1 clicktripz.com
-127.0.0.1 ioam.de
-127.0.0.1 mairdumont.com
-127.0.0.1 md-nx.com
-127.0.0.1 cloudflareinsights.com
-127.0.0.1 openx.net
-127.0.0.1 affise.com
-127.0.0.1 antmobi.go2affise.com
-127.0.0.1 go2affise.com
-127.0.0.1 targetspot.com
-127.0.0.1 tsbluebox.com
-::1 ads.mopub.com
-::1 clicktripz.com
-::1 ioam.de
-::1 mairdumont.com
-::1 md-nx.com
-::1 cloudflareinsights.com
-::1 openx.net
-::1 affise.com
-::1 antmobi.go2affise.com
-::1 go2affise.com
-::1 targetspot.com
-::1 tsbluebox.com
+ads.mopub.com
+clicktripz.com
+ioam.de
+mairdumont.com
+md-nx.com
+cloudflareinsights.com
+openx.net
+affise.com
+antmobi.go2affise.com
+go2affise.com
+targetspot.com
+tsbluebox.com
