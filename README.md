@@ -23,3 +23,5 @@ AdBlock for Browsers: https://github.com/gorhill/uBlock/
 Block-Tool for your complete network: https://pi-hole.net/
 
 Block-Tool for Android-Devices: https://blokada.org/
+
+>> This list is only updated from time to time.
