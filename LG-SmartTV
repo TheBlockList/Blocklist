@@ -1,0 +1,59 @@
+# This File is based on a WebOS22 TV
+# For Systemupdates you need following domains
+# snu.lge.com + su-ssl.lge.com + su-ssl.lge.com.edgekey.net
+# If you want to accept the EULA, you need following domains with your countrycode
+# de-lgtvsdp-com.aws-prd.net + DE.lgtvsdp.com
+
+a1915.dscw154.akamai.net
+alb-an2-dmz-waf-new-257705615.ap-northeast-2.elb.amazonaws.com
+d21mt1804189nk.cloudfront.net
+de-lgtvsdp-com.aws-prd.net
+DE.ibs.lgappstv.com
+DE.info.lgsmartad.com
+DE.lgtvsdp.com
+dibxnox5pwdxl.cloudfront.net
+e6114.e21.akamaiedge.net
+eic-gfts.lge.com
+eic-gfts.lge.com.edgekey.net
+eic-op-lss.lgthinq.com
+EIC.cdpbeacon.lgtvcommon.com
+EIC.cdpsvc.lgtvcommon.com
+EIC.nudge.lgtvcommon.com
+EIC.wiseconfig.lgtvcommon.com
+LGwebOSTV-2Bk9-5.local
+LGwebOSTV-2Bk9.local
+LGwebOSTV.local
+lss.lgthinq.com
+mediaservices.cdn-apple.com
+mediaservices.cdn-apple.com.akadns.net
+mediaservices.cdn-apple.com.edgesuite.net
+ngfts.lge.com
+ngfts.lge.com.edgekey.net
+prov-lg.alphonso.tv
+qt2-kic.lgtviot.com
+snu.lge.com
+su-ssl.lge.com
+su-ssl.lge.com.edgekey.net
+be.ad.lgsmartad.com
+be.info.lgsmartad.com
+be.rdx2.lgtvsdp.com
+us.rdx2.lgtvsdp.com
+us.info.lgsmartad.com
+us.ibs.lgappstv.com
+us.lgtvsdp.com
+ad.lgappstv.com
+smartshare.lgtvsdp.com
+ibis.lgappstv.com
+us.ad.lgsmartad.com
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com
+yumenetworks.com
+smartclip.net
+smartclip.com
+rdx2.lgtvsdp.com
+info.lgsmartad.com
+ibs.lgappstv.com
+lgtvsdp.com
+lgappstv.com
+smartshare.lgtvsdp.com
+lgappstv.com
