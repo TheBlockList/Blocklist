@@ -1,8 +1,10 @@
 # This File is based on a WebOS22 TV
 # For Systemupdates you need following domains
 # snu.lge.com + su-ssl.lge.com + su-ssl.lge.com.edgekey.net
-# If you want to accept the EULA, you need following domains with your countrycode
-# de-lgtvsdp-com.aws-prd.net + DE.lgtvsdp.com
+# If you want to accept the EULA, you need following domains with your countrycode (example for germany)
+# de.lgtvsdp.com + ngfts.lge.com
+# If you want to update your apps, allow this domain:
+# eic-gfts.lge.com
 
 *.ad.lgsmartad.com
 *.ibs.lgappstv.com
