@@ -4,7 +4,7 @@
 # If you want to accept the EULA, you need following domains with your countrycode (example for germany)
 # de.lgtvsdp.com + ngfts.lge.com
 # If you need the "Apps"-App, you need the following Domains beginning with your country-code (example for germany):
-# de.ibs.lgappstv.com + de.lgrecommends.lgappstv.com
+# de.ibs.lgappstv.com + de.lgrecommends.lgappstv.com + de.info.lgsmartad.com
 # If you want to update your apps, allow this domain:
 # eic-gfts.lge.com
 # If you need your LG-Account to download some Apps, allow this domain beginning with your country-code (example for germany):
