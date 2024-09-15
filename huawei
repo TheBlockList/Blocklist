@@ -1,7 +1,10 @@
 # List for blocking Huawei stuff
 
-grs.dbankcloud.com
+dbankcloud.com
 event.dbankcdn.com
+grs.dbankcloud.com
+platform.dbankcloud.com
+openlocation-dre.platform.dbankcloud.com
 push.hicloud.com
 pushtrs1.push.hicloud.com
 pushtrs2.push.hicloud.com
