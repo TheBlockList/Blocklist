@@ -1,3 +1,7 @@
+# poll.gras.samsungdm.com # Maby Softwareupdates
+# dls-udc.sqa.samsung.com # Dont know yet
+# de-odc.samsungapps.com # Samsung Apps Store
+# vas.samsungapps.com # Dont know yet
 device-metrics-us.amazon.com
 samsungacr.com
 samsungcloudsolution.com
@@ -104,3 +108,5 @@ log-ingestion.samsungacr.com
 tkacrX.alphonso.tv
 market-euw1.mgmt.aibixby.com
 insight.samsunghealth.com
+gos-api.gos-gsp.io # Game Launcher App
+asset.samsungvisioncloud.com
