@@ -888,3 +888,7 @@ apis.meari.com.cn
 usce.mearicloud.com
 oss-us-west-1.aliyuncs.com
 natsvrusce14.mearicloud.com
+ntp2.aliyun.com # Risky chinese gps tracker stuff
+spytecgpslistener.com # Risky chinese gps tracker stuff
+gv310mg-udp-port-1012.spytecgpslistener.com # Risky chinese gps tracker stuff
+qms-udp-port-1036.spytecgpslistener.com # Risky chinese gps tracker stuff
