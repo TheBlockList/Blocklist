@@ -2,3 +2,4 @@
 config.ubnt.com # Console connect to url if config change
 crash-report-service.svc.ui.com # Crash-Report Telemetrie
 trace.svc.ui.com
+static.ui.com # Connect every hour for whatever reason
