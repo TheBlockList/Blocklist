@@ -895,3 +895,8 @@ qms-udp-port-1036.spytecgpslistener.com # Risky chinese gps tracker stuff
 7zip.com # Malware
 www.7zip.com # Malware
 ec2-35-162-15-65.us-west-2.compute.amazonaws.com # Bose Soundtouch Telemetrie
+devices-apis.reolink.com
+p2p.reolink.com
+n-devs-smb.tplinkcloud.com
+n-deventry-smb.tplinkcloud.com
+stc.samsungdis.com
